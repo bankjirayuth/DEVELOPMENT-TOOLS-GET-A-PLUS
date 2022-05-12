@@ -139,7 +139,7 @@ export default function Home() {
       {/* Modal */}
       <ModalUsername />
 
-      {/* Search bar*/}
+      {/* Search box bar*/}
       <Box
         display="flex"
         flexDirection="row"
